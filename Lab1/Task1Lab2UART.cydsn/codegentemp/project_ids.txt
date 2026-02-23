@@ -1,0 +1,7 @@
+C:\Users\STUDENT\Documents\PSoC Creator\Lab1\Task1Lab2UART.cydsn\Task1Lab2UART.cyprj|d049a556-7f15-4666-837d-ae78b94c28a8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|c6b8848b-9ca0-44e2-b36c-48c14aa89c9c
+C:\Users\STUDENT\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|e8734f3c-1489-4a1a-a8d5-b90a13565b2a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|549f3924-967b-4924-9c9f-16c9e379691a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1537b8af-47ce-4239-a6e8-acd973d8b6a8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|cb8e04f2-c3da-4fb6-accf-fd9ae4a8b2aa
+C:\Users\STUDENT\Documents\PSoC Creator\Lab2\Task1.cydsn\Task1.cyprj|68ffac13-ad62-400e-82fd-90fb9cb6c95c
